@@ -1,0 +1,3 @@
+I worked on the creation of a project by Insights Analytic. The analysis and graphical representations were my responsibility, and I accomplished this by using Matplotlib and ggplot2. In my previous role, I helped with the ETL process and exploratory data analysis. My primary responsibilities include writing code in Python and R and publicizing the results. I also did statistical analysis, including data distributions, to back up the results.
+The origin tool is used to choose suitable data representation techniques.
+Doing analysis on ML techniques and putting them to use in the Jupyter Notebook and R programming environments. An additional 23% in accuracy has been added to the model.
